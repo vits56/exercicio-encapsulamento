@@ -16,7 +16,7 @@ Você deve fazer um programa que realize o cadastro de uma conta, dando opção 
 informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
 mostrando os dados da conta após cada operação.
 
-#EXAMPLE 1
+# EXAMPLE 1
 Enter account number: 8532
 Enter account holder: Alex Green
 Is there na initial deposit (y/n)? y
@@ -30,7 +30,7 @@ Enter a withdraw value: 300.00
 Updated account data:
 Account 8532, Holder: Alex Green, Balance: $ 395.00
 
-#EXAMPLE 2
+# EXAMPLE 2
 Enter account number: 7801
 Enter account holder: Maria Brown
 Is there na initial deposit (y/n)? n
