@@ -17,28 +17,28 @@ informado o valor de depósito inicial. Em seguida, realizar um depósito e depo
 mostrando os dados da conta após cada operação.
 
 # EXAMPLE 1
-Enter account number: 8532
-Enter account holder: Alex Green
-Is there na initial deposit (y/n)? y
-Enter initial deposit value: 500.00
-Account data:
-Account 8532, Holder: Alex Green, Balance: $ 500.00
-Enter a deposit value: 200.00
-Updated account data:
-Account 8532, Holder: Alex Green, Balance: $ 700.00
-Enter a withdraw value: 300.00
-Updated account data:
-Account 8532, Holder: Alex Green, Balance: $ 395.00
+- Enter account number: 8532
+- Enter account holder: Alex Green
+- Is there na initial deposit (y/n)? y
+- Enter initial deposit value: 500.00
+- Account data:
+- Account 8532, Holder: Alex Green, Balance: $ 500.00
+- Enter a deposit value: 200.00
+- Updated account data:
+- Account 8532, Holder: Alex Green, Balance: $ 700.00
+- Enter a withdraw value: 300.00
+- Updated account data:
+- Account 8532, Holder: Alex Green, Balance: $ 395.00
 
 # EXAMPLE 2
-Enter account number: 7801
-Enter account holder: Maria Brown
-Is there na initial deposit (y/n)? n
-Account data:
-Account 7801, Holder: Maria Brown, Balance: $ 0.00
-Enter a deposit value: 200.00
-Updated account data:
-Account 7801, Holder: Maria Brown, Balance: $ 200.00
-Enter a withdraw value: 198.00
-Updated account data:
-Account 7801, Holder: Maria Brown, Balance: $ -3.00
+- Enter account number: 7801
+- Enter account holder: Maria Brown
+- Is there na initial deposit (y/n)? n
+- Account data:
+- Account 7801, Holder: Maria Brown, Balance: $ 0.00
+- Enter a deposit value: 200.00
+- Updated account data:
+- Account 7801, Holder: Maria Brown, Balance: $ 200.00
+- Enter a withdraw value: 198.00
+- Updated account data:
+- Account 7801, Holder: Maria Brown, Balance: $ -3.00
